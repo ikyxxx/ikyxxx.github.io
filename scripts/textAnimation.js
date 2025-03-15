@@ -3,7 +3,8 @@ export function animateText() {
         "developer",
         "coder",
         "programmer",
-        "engineer"
+        "engineer",
+        "you named it"
     ];
 
     let index = 0;
